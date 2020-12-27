@@ -1,0 +1,22 @@
+{
+	"user": "opysium",
+	"repo": "ugmp-server",
+	"include_path": "includes",
+	"resources": [
+		{
+			"name": "ugmp-server-1.0-linux.tar.gz",
+			"platform": "linux",
+			"archive": true,
+			"plugins": ["ugmp.so"]
+		},
+		{
+			"name": "ugmp-server-1.0-win32.zip",
+			"platform": "windows",
+			"archive": true,
+			"plugins": ["ugmp.dll"]
+		}
+	],
+	"runtime": {
+		"plugins": ["opysium/ugmp-server"]
+	}
+}
