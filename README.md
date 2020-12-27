@@ -1,5 +1,5 @@
 # What is this?
-A GitHub Repository for adding UG:MP's libraries and plugin to sampctl.
+A GitHub Repository for adding UG:MP's libraries and plugin to your server with SAMPCTL.
 
 # How to Install?
 ```pawn
