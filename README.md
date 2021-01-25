@@ -1,3 +1,6 @@
+# Why this repository has been archived?
+Because you can use UG:MP server download link to download UG:MP server files in SAMPCTL.
+
 # What is this?
 A GitHub Repository for adding UG:MP's libraries and plugin to your server with SAMPCTL.
 
